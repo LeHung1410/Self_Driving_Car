@@ -1,0 +1,3 @@
+../Core/Src/steering.c:19:6:ProcessLidarData	40	static
+../Core/Src/steering.c:29:7:CalculateSteeringAngle	40	static
+../Core/Src/steering.c:34:6:ControlServo	24	static
