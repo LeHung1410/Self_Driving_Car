@@ -1,0 +1,5 @@
+C:/Users/M S I/Desktop/bldc4/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/esc.c:56:6:esc_boot	0	static
+C:/Users/M S I/Desktop/bldc4/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/esc.c:72:6:esc_pwm_stop	8	static
+C:/Users/M S I/Desktop/bldc4/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/esc.c:80:13:esc_pwm_run	24	static
+C:/Users/M S I/Desktop/bldc4/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/esc.c:244:6:esc_pwm_control	24	static
+C:/Users/M S I/Desktop/bldc4/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/esc.c:596:6:TIM2_IRQHandler	8	static

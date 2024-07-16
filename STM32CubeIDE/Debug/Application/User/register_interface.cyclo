@@ -1,0 +1,4 @@
+C:/Users/M S I/Desktop/bldc4/Src/register_interface.c:38:16:RI_SetRegCommandParser	103
+C:/Users/M S I/Desktop/bldc4/Src/register_interface.c:112:16:RI_GetRegCommandParser	120
+C:/Users/M S I/Desktop/bldc4/Src/register_interface.c:1223:9:RI_GetIDSize	2
+C:/Users/M S I/Desktop/bldc4/Src/register_interface.c:1257:16:RI_GetPtrReg	21
